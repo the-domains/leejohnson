@@ -1,28 +1,40 @@
-name: leejohnson
-favicon: null
-layout_spectrum: 0.060395739041268826
-typography_spectrum: 0.6393619943410158
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.015082673635333776
-  lightness: 0.6562439552508295
-  saturation: 0.38162289117462933
-  rhythmicContrast: 0.5675296282861382
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.3816228911746293
+  lightness: 0.6562439552508295
+  brandStrength: 1
+  brandColors:
+    - '#030303'
+    - '#FFFFFF'
+    - '#0180FA'
+    - '#6E89C6'
+    - '#FFFC39'
+  rhythmicContrast: 0.5675296282861382
+typography_spectrum: 0.3378088
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: leejohnson
