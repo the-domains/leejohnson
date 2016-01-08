@@ -1,0 +1,28 @@
+name: leejohnson
+favicon: null
+layout_spectrum: 0.060395739041268826
+typography_spectrum: 0.6393619943410158
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.015082673635333776
+  lightness: 0.6562439552508295
+  saturation: 0.38162289117462933
+  rhythmicContrast: 0.5675296282861382
+purpose: []
